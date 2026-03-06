@@ -65,7 +65,8 @@ Key columns in the dataset include:
 - Promotion delay may be associated with increased employee turnover.
 
 ## Dashboard Preview
-![Uploading Employee_Attrition_Analysis_Dashboard_SS.png…]()
+<img width="1305" height="733" alt="Employee_Attrition_Analysis_Dashboard_SS" src="https://github.com/user-attachments/assets/87035e2b-e9b9-410a-9802-fa43d7898f4e" />
+
 
 
 
